@@ -12,22 +12,25 @@ No dia a dia de projetos de dados (ETLs, Dashboards, Integrações via n8n), o u
 
 ## 🛠️ Guia Prático: Como replicar este projeto
 
-**Criar o Ambiente Virtual (venv)**
+## Criar o Ambiente Virtual (venv)
 No terminal, dentro da pasta do projeto, execute:
-
 python -m venv venv
-1. Ativar o Ambiente Virtual - Windows (PowerShell):
 
-PowerShell
+**1. Ativar o Ambiente Virtual - 
+Windows (PowerShell):**
+
 .\venv\Scripts\Activate.ps1
-Windows (Prompt de Comando / CMD):
 
-DOS
+**Windows (Prompt de Comando / CMD):**
+
+**DOS:**
 .\venv\Scripts\activate
-Linux/Mac/Git Bash:
 
+**Linux/Mac/Git Bash:**
 source venv/Scripts/activate
-2. Instalar as Dependências
+
+
+**2. Instalar as Dependências**
 Com o ambiente ativo (você verá um (venv) no terminal), instale as bibliotecas necessárias:
 
 pip install requests beautifulsoup4 pandas
