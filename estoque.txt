@@ -1,0 +1,12 @@
+Produto,Quantidade,Preco_unitario
+balas,100,1
+NaN,200,50
+mala,5,NaN
+boné,15,45
+boné,15,45
+sorvete,56,25.40
+sorvete,56,25.40
+televisão,12,1200.99
+smartphone,23,2999.99
+smartphone,23,2999.99
+chocolate,NaN,5
